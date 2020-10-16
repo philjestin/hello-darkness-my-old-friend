@@ -1,14 +1,14 @@
-# benny-hill
+# hello-darkness-my-old-friend
 
-Play the Benny Hill theme while running another command
+Play Sounds of Silence while running another command
 
 ```
-npm install -g benny-hill
+npm install -g hello-darkness-my-old-friend
 
-benny-hill # just play benny hill
-benny-hill sleep 10 # play for 10 s
-benny-hill make # when compiling
-benny-hill npm install -g dat # installing node modules
+hello-darkness-my-old-friend # just play benny hill
+hello-darkness-my-old-friend sleep 10 # play for 10 s
+hello-darkness-my-old-friend make # when compiling
+hello-darkness-my-old-friend npm install -g dat # installing node modules
 ```
 
 ## Linux users
