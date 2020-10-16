@@ -1,9 +1,9 @@
 {
-  "name": "hello-darkness-my-olf-friend",
+  "name": "hello-darkness",
   "version": "1.0.0",
   "description": "Play Sounds of Silence while running another command",
   "bin": {
-    "hello-darkness-my-old-friend": "./bin.js"
+    "hello-darkness": "./bin.js"
   },
   "main": "index.js",
   "dependencies": {},
