@@ -1,9 +1,9 @@
 {
-  "name": "hello-darkness",
-  "version": "1.0.0",
+  "name": "make-serve",
+  "version": "2.0.0",
   "description": "Play Sounds of Silence while running another command",
   "bin": {
-    "hello-darkness": "./bin.js"
+    "make-serve": "./bin.js"
   },
   "main": "index.js",
   "dependencies": {},

@@ -1,14 +1,14 @@
-# hello-darkness
+# make-serve
 
 Play Sounds of Silence while running another command
 
 ```
-npm install -g hello-darkness
+npm install -g make-serve
 
-hello-darkness # just play sounds of silence
-hello-darkness sleep 10 # play for 10 s
-hello-darkness make # when compiling
-hello-darkness npm install -g dat # installing node modules
+make-serve # just play sounds of silence
+make-serve sleep 10 # play for 10 s
+make-serve make # when compiling
+make-serve npm install -g dat # installing node modules
 ```
 
 ## Linux users
