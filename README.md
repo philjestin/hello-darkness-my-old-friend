@@ -1,11 +1,11 @@
 # make-serve
 
-Play Sounds of Silence while running another command
+Play The Sound of Silence while running another command
 
 ```
 npm install -g make-serve
 
-make-serve # just play sounds of silence
+make-serve # plays The Sound of Silence w/ a visual treat.
 make-serve sleep 10 # play for 10 s
 make-serve make # when compiling
 make-serve npm install -g dat # installing node modules
