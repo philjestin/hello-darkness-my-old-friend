@@ -1,6 +1,6 @@
 {
   "name": "make-serve",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Play Sounds of Silence while running another command",
   "bin": {
     "make-serve": "./bin.js"
